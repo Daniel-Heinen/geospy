@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.env
+venv/
+# Modified 2025-07-08
+# Modified 2025-06-26
+# Modified 2025-10-29
