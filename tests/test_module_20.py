@@ -19,3 +19,4 @@ async def test_process():
     result = await processor.process(data)
     assert "latitude" in result
     assert "longitude" in result
+# Modified 2022-09-02
