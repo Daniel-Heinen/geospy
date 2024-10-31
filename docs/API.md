@@ -12,3 +12,4 @@ Analyze image for geolocation data
 # Modified 2023-12-28
 # Modified 2024-01-26
 # Modified 2024-08-01
+# Modified 2024-10-31
